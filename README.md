@@ -3,4 +3,4 @@
 Professor: Victor Lima
 Canal: Guia do Programador
 
-Apartir destas aulas, construi o www.escolarondon.com.br:5353
+Apartir destas aulas, construi o www.escolarondon.com.br
